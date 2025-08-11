@@ -15,26 +15,26 @@ The EDA includes:
 
 Tools & Libraries Used:
 
-.Python – Core programming language for analysis
+Python – Core programming language for analysis
 
-.Pandas – Data manipulation and inspection
+Pandas – Data manipulation and inspection
 
-.Matplotlib & Seaborn – Advanced data visualization
+3Matplotlib & Seaborn – Advanced data visualization
 
-.Jupyter Notebook – Interactive development and documentation
+Jupyter Notebook – Interactive development and documentation
 
 Objectives:
 
-.Practice real-world EDA workflows in Python
+Practice real-world EDA workflows in Python
 
-.Explore and interpret survival patterns among Titanic passengers
+Explore and interpret survival patterns among Titanic passengers
 
-.Build clear and impactful data visualizations
+Build clear and impactful data visualizations
 
-.Strengthen skills in data cleaning, transformation, and presentation
+Strengthen skills in data cleaning, transformation, and presentation
 
 Key Insights:
-.The notebook reveals how factors like passenger class, gender, and age significantly impacted survival rates. Visual patterns highlight the influence of socio-economic status and demographics on survival probability.
+The notebook reveals how factors like passenger class, gender, and age significantly impacted survival rates. Visual patterns highlight the influence of socio-economic status and demographics on survival probability.
 
-.This project is an ideal resource for beginners and intermediate learners aiming to understand the complete EDA process—from loading data to generating actionable insights—while building skills in data analysis, visualization, and storytelling.
+This project is an ideal resource for beginners and intermediate learners aiming to understand the complete EDA process—from loading data to generating actionable insights—while building skills in data analysis, visualization, and storytelling.
 
